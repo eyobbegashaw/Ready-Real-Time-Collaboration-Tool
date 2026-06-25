@@ -1,4 +1,4 @@
-###############﻿# EthioChat - Real-Time Collaboration Tool
+###﻿# EthioChat - Real-Time Collaboration Tool
 
 A modern, feature-rich chat application designed specifically for Ethiopian users, with real-time messaging, group chats, file sharing, and voice notes.
 
